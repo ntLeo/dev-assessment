@@ -1,4 +1,3 @@
-import React from 'react';
 import './App.css';
 
 // TODO: Import your components here
@@ -9,7 +8,7 @@ function App() {
   return (
     <div className="app">
       <header className="app-header">
-        <h1>Task Management System</h1>
+        <h1>Developer Assessment</h1>
       </header>
       
       <main className="app-main">
@@ -22,7 +21,7 @@ function App() {
         */}
         
         <div className="task-container">
-          <h2>Welcome to the Task Manager!</h2>
+          <h2>Welcome to the Task App!</h2>
           <p>Start by implementing the TaskForm and TaskList components.</p>
         </div>
       </main>

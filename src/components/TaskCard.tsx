@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 // TODO: Import your types
 // import { Task, Priority } from '../types/task.type';
 
