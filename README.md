@@ -1,4 +1,4 @@
-# Junior Developer Assessment - Task Management System
+# Developer Assessment - Task Management System
 
 ## 🎯 Overview
 This is a **2-3 day coding assessment** designed to evaluate junior developer skills in building modern web applications. You'll create a task management system using React, TypeScript, and Firebase.
